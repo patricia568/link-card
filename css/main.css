@@ -15,11 +15,28 @@ h1 {
 p {
   font-family: Georgia;
   font-size: 1rem;
+  color: #512200;
 }
 
 dl {
   font-family: Georgia;
   font-size: .875rem;
+  width: 100%;
+  color: #512200;
+}
+
+dt {
+  float: left;
+  width: 50%;
+  padding: 0;
+  margin: 0;
+}
+
+dd {
+  float: left;
+  width: 50%;
+  padding: 0;
+  margin: 0;
 }
 
 .link-card {
