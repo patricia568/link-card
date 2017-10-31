@@ -27,6 +27,7 @@ dl {
   font-family: Georgia;
   font-size: .875rem;
   width: 100%;
+  display: block;
 }
 
 dt {
@@ -42,6 +43,7 @@ dd {
   padding: 0;
   margin: 0;
   font-style: italic;
+  display: inline-block;
 }
 
 .link-card {
@@ -70,3 +72,9 @@ dd {
 
 .link-card:hover .btn {
   background-color: #512200;
+}
+
+.link-card .btn-wrap {
+  text-align: center;
+  margin-top: 1rem;
+}
