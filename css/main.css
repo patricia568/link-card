@@ -49,7 +49,7 @@ dd {
   border-style: solid;
   border-color: #9a816d;
   border-width: 3px;
-  border-radius: 8px;
+  border-radius: 3px;
   padding: 1rem;
   margin: 1rem;
 }
@@ -58,5 +58,15 @@ dd {
   background-color: #cabdb2;
 }
 
+.link-card .btn {
+  color: #fff;
+  background-color: #785439;
+  text-align: center;
+  font-family: 'Dosis';
+  font-size: 1.125rem;
+  padding: .4em .75em .5em;
+  border-radius: 8px;
+}
+
 .link-card:hover .btn {
-  background-color: #bbb6e3;
+  background-color: #512200;
