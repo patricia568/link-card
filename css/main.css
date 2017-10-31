@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+
 }
 
 *, *::before, *::after {
@@ -8,6 +9,7 @@ html {
 
 h1 {
   font-family: 'Dosis';
+  font-size: 1.5rem;
 }
 .link-card:hover {
   background-color: #5e54af;
