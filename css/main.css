@@ -13,17 +13,20 @@ h2 {
   font-weight: bold;
 }
 
+a {
+  text-decoration: none;
+  color: #512200;
+}
+
 p {
   font-family: Georgia;
   font-size: 1rem;
-  color: #512200;
 }
 
 dl {
   font-family: Georgia;
   font-size: .875rem;
   width: 100%;
-  color: #512200;
 }
 
 dt {
@@ -42,14 +45,13 @@ dd {
 }
 
 .link-card {
-  color: #512200;
-  text-decoration: none;
   background-color: #dcd4cd;
   border-style: solid;
   border-color: #9a816d;
   border-width: 3px;
   border-radius: 8px;
   padding: 1rem;
+  margin: 1rem;
 }
 
 .link-card:hover {
