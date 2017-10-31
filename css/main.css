@@ -12,8 +12,8 @@ body {
   margin: 0;
 }
 
-h2 {
-  font-family: 'Dosis';
+.link-card h2 {
+  font-family: "Dosis";
   font-size: 1.5rem;
   font-weight: bold;
   margin-top: 0;
@@ -61,7 +61,7 @@ dd {
   display: inline-block;
 }
 
-.link-card {
+a.link-card {
   background-color: #dcd4cd;
   border-style: solid;
   border-color: #9a816d;
@@ -69,7 +69,7 @@ dd {
   border-radius: 3px;
   padding: 1rem;
   padding-top: 0;
-  margin: 0;
+  margin: .5em;
   padding-bottom: 1rem;
 }
 
@@ -81,7 +81,7 @@ dd {
   color: #fff;
   background-color: #785439;
   text-align: center;
-  font-family: 'Dosis';
+  font-family: "Dosis";
   font-size: 1.125rem;
   padding: .4em .75em .5em;
   border-radius: 8px;
