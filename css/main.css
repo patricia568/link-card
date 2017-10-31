@@ -95,3 +95,7 @@ dd {
   text-align: center;
   margin-top: 1rem;
 }
+
+a.link-card {
+  text-decoration: none;
+}
